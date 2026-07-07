@@ -368,4 +368,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Because the best computer vision system is the one that ships. 🎯📦*
+*The world is full of objects. Now your API knows them all. 🎯🌍*
