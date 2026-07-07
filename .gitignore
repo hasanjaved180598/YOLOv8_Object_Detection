@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Model weights — too large for GitHub
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
+
+# YOLOv8 auto-created folders
+runs/
